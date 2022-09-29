@@ -1,0 +1,10 @@
+int x;
+int y;
+int z;
+y = 76;
+x = 54;
+z = x + y;
+z = z * x;
+z = (z * z) + x;
+z = z - y;
+Console.WriteLine("El resultado de las operaciones es " + z);
